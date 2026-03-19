@@ -16,8 +16,8 @@
 3. **Database Region**: Asia (Seoul) 선택
 4. **Create new project** 클릭
 5. **Settings → API**에서 다음 값을 복사해두기:
-   - `Project URL`: `https://xxxxxxxx.supabase.co`
-   - `anon public` key: `eyJhbGciOiJIUzI1Ni...` (Starting with `eyJ...`)
+   - `Project URL`: `https://ewwfjhcrvayjmdsxtygr.supabase.co`
+   - `anon public` key: `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV3d2ZqaGNydmF5am1kc3h0eWdyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzM5MDIyMjAsImV4cCI6MjA4OTQ3ODIyMH0.KHGj9UBNXxNuYteyJz5eHB-EoxR4nOPub7tnwrxMEho`
 
 ---
 
@@ -174,8 +174,8 @@ Vercel Dashboard → **Settings** → **Environment Variables**:
 
 | Name | Value | Environments |
 |------|-------|-------------|
-| `VITE_SUPABASE_URL` | `https://xxxxxxxx.supabase.co` | All |
-| `VITE_SUPABASE_ANON_KEY` | `eyJhbGci...` (본인 anon key) | All |
+| `VITE_SUPABASE_URL` | `https://ewwfjhcrvayjmdsxtygr.supabase.co` | All |
+| `VITE_SUPABASE_ANON_KEY` | `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV3d2ZqaGNydmF5am1kc3h0eWdyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzM5MDIyMjAsImV4cCI6MjA4OTQ3ODIyMH0.KHGj9UBNXxNuYteyJz5eHB-EoxR4nOPub7tnwrxMEho` | All |
 
 ---
 
