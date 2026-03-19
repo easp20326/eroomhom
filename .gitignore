@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Cache
+.cache/
+.npm/
+.bun/
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.bak
+*.log
+
+# Env (never commit secrets)
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# WordPress (필요시)
+wp-config.php
+.htaccess
+
+# Local dev
+*.local
