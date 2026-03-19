@@ -135,8 +135,17 @@ INSERT INTO prosthetics (name, price) VALUES
 
 INSERT INTO settings (key, value) VALUES
 ('showPriceToClinic', 'false'),
-('adminPassword',     '1234');
+('adminPassword',     'jin7102__!!');
 ```
+
+---
+
+## 관리자 로그인 정보
+
+| 항목 | 값 |
+|------|-----|
+| **로그인ID** | `이룸덴탈랩` |
+| **비밀번호** | `jin7102__!!` |
 
 ---
 
